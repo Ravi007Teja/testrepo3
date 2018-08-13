@@ -1,1 +1,1 @@
-hello second file
+type >> to append > for overwrite
